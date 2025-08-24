@@ -1,0 +1,17 @@
+# # Create virtual environment
+# pip install virtualenv
+# python -m venv venv_name
+
+# # Activate virtual environment
+
+# venv_name\Scripts\activate
+
+
+# # Show installed packages & save to file
+# pip list > requirements.txt
+
+# # Deactivate environment
+# deactivate
+
+# # Uninstall a package
+# pip uninstall pkg_name
